@@ -3,6 +3,8 @@
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--circle-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-circle)
 [![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-circle.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-circle/issues)
 
+![PNG](screenshot/react-native-circle.png)
+
 -   [Usage](#usage)
 -   [License](#license)
 
