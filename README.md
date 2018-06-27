@@ -1,7 +1,8 @@
 # React Native: Circle
 
-[![github home](https://img.shields.io/badge/gaetanozappi-react--native--circle-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-circle)
-[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-circle.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-circle/issues)
+[![github home](http://img.shields.io/npm/v/react-native-circle.svg?style=flat)](https://www.npmjs.com/package/react-native-circle)
+[![github home](https://img.shields.io/badge/gaetanozappi-react--native--circle-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-circle)
+[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-circle.svg?style=flat)](https://github.com/gaetanozappi/react-native-circle/issues)
 
 ![PNG](screenshot/react-native-circle.png)
 
