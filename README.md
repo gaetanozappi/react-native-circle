@@ -52,4 +52,5 @@ export default class App extends Component {
 ```
 
 ## License
-The MIT License
+This library is provided under the Apache License.
+
