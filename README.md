@@ -13,7 +13,7 @@
 
 ```javascript
 import React, { Component } from 'react';
-import Circle from './Circle';
+import Circle from 'react-native-circle';
 
 export default class App extends Component {
   constructor() {
