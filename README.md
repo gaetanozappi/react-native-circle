@@ -1,4 +1,4 @@
-# React Native: Circle
+# React Native: react-native-circle
 
 [![github home](http://img.shields.io/npm/v/react-native-circle.svg?style=flat)](https://www.npmjs.com/package/react-native-circle)
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--circle-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-circle)
@@ -51,10 +51,17 @@ export default class App extends Component {
   }
 
   render() {
-    return <Circle array={this.state.array} title={this.state.title} />;
+    return <Circle title={this.state.title} array={this.state.array} />;
   }
 }
 ```
+
+## 💡 Props
+
+| Prop              | Type       | Default | Note                                                                                                       |
+| ----------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------- |
+| `title`      | `string`   |  | Circle title.
+| `array`       | `array`   |  | We need to pass an array of the image, as in the example.
 
 ## License
 This library is provided under the Apache License.
