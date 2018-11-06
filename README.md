@@ -12,14 +12,14 @@
 
 ![PNG](screenshot/react-native-circle.png)
 
--   [Usage](#usage)
--   [License](#license)
+-   [Usage](#-usage)
+-   [License](#-license)
 
 ## 📖 Getting started
 
 `$ npm install react-native-circle --save`
 
-## Usage
+## 💻 Usage
 
 ```javascript
 import React, { Component } from 'react';
@@ -69,6 +69,5 @@ export default class App extends Component {
 | `title`      | `string`   |  | Circle title.
 | `array`       | `array`   |  | We need to pass an array of the image, as in the example.
 
-## License
+## 📜 License
 This library is provided under the Apache License.
-
